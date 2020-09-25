@@ -22,4 +22,4 @@ _Software developer based in Rio de Janeiro, Brazil_ <br>
 [UFF](http://www.ic.uff.br/index.php/pt/) - Rio de Janeiro, Rio de Janeiro, Brazil _(2014, 2016)_
 <br><br>
 **Bachelor of Computer Science**<br>
-[IF Sudeste MG - Campus Rio Pomba](https://www.ifsudestemg.edu.br/riopomba) - Rio Pomba, Minas Gerais, Brazil _(2010 - 2013)_
+[IF Sudeste MG](https://www.ifsudestemg.edu.br/riopomba) - Rio Pomba, Minas Gerais, Brazil _(2010 - 2013)_
