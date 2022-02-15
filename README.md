@@ -1,7 +1,7 @@
 # Alexandre Lunardi
 _Software developer based in Rio de Janeiro, Brazil_ <br>
 
-[Email](mailto:alexandre.lunardi2@gmail.com) / [Website](https://thelunardi.dev/) / [LinkedIn](https://www.linkedin.com/in/thelunardi/) / [Twitter](https://twitter.com/thelunardi/) / [freeCodeCamp](https://www.freecodecamp.org/thelunardi)
+[Email](mailto:alexandre.lunardi2@gmail.com) / [Website](https://thelunardi.dev/) / [LinkedIn](https://www.linkedin.com/in/thelunardi/) / [Twitter](https://twitter.com/thelunardi/) / [freeCodeCamp](https://www.freecodecamp.org/thelunardi) / [CodePen](https://codepen.io/thelunardi)
 
 
 ## 👨‍💻 Technical Experience
