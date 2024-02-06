@@ -29,7 +29,7 @@ _Software developer based in Rio de Janeiro, Brazil_ <br>
 ## 💬 Languages
 
 **Portuguese**: native <br>
-**English**: improving
+**English**: improving <br>
 **Italian**: improving
 <br><br>
 
