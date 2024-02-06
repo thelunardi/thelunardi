@@ -5,8 +5,8 @@ _Software developer based in Rio de Janeiro, Brazil_ <br>
 
 
 ## 👨‍💻 Technical Experience
-### Backend Developer @ [Ame Digital](https://www.amedigital.com/) _(Oct 2019 - Present)_ <br>
-  - **_Technologies used:_** Node.js, Golang, Java, Docker, AWS, MongoDB, MySQL.
+### Backend Developer @ [americanas](https://www.americanas.com/) _(Oct 2019 - Present)_ <br>
+  - **_Technologies used:_** Node.js, Java, Golang, Docker, AWS, MongoDB, MySQL, electron.js, React.js.
   <br><br>
 
 ### Developer @ [UNIFAGOC](https://unifagoc.edu.br/) _(Sep 2016 - Sep 2019)_ <br>
