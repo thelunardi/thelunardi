@@ -1,12 +1,12 @@
 # Alexandre Lunardi
-_Software developer based in Rio de Janeiro, Brazil_ <br>
+_Software developer based in Minas Gerais, Brazil_ <br>
 
 [Email](mailto:alexandre.lunardi2@gmail.com) / [Website](https://thelunardi.dev/) / [LinkedIn](https://www.linkedin.com/in/thelunardi/) / [Twitter](https://twitter.com/thelunardi/) / [freeCodeCamp](https://www.freecodecamp.org/thelunardi) / [CodePen](https://codepen.io/thelunardi)
 
 
 ## 👨‍💻 Technical Experience
 ### Backend Developer @ [americanas](https://www.americanas.com/) _(Oct 2019 - Present)_ <br>
-  - **_Technologies used:_** Node.js, Java, Golang, Docker, AWS, MongoDB, MySQL, electron.js, React.js.
+  - **_Technologies used:_** Java, Groovy, Node.js, AWS, MongoDB, MySQL, electron.js, React.js, Docker.
   <br><br>
 
 ### Developer @ [UNIFAGOC](https://unifagoc.edu.br/) _(Sep 2016 - Sep 2019)_ <br>
