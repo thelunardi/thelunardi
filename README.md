@@ -28,11 +28,17 @@ I'm known for my commitment to finding good solutions to hard problems and for a
 ## 📈 GitHub Stats
 
 <a href="https://github.com/thelunardi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelunardi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Lunardi's top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thelunardi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelunardi&hide=html,css&title_color=1A2B34&text_color=434d58&icon_color=4AB197&bg_color=ffffff" alt="Lunardi's top languages" />
+  </picture>
 </a>
 
 <a href="https://github.com/thelunardi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thelunardi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Lunardi's GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thelunardi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thelunardi&show_icons=true&line_height=27&count_private=true&title_color=1A2B34&text_color=434d58&icon_color=4AB197&bg_color=ffffff" alt="Lunardi's GitHub Stats" />
+  </picture>
 </a>
 
 ## 💬 Languages
