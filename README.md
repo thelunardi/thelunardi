@@ -1,11 +1,15 @@
 # Alexandre Lunardi
-_Software developer based in Minas Gerais, Brazil_
+_Staff Engineer based in Minas Gerais, Brazil_
+
+I'm a Staff Engineer at americanas with over a decade of experience building software. Today I work on the company's point-of-sale (POS) system, the platform behind sales in our physical stores.
+
+I'm known for my commitment to finding good solutions to hard problems and for always being available to support my teammates. I hold an M.Sc. in Computer Science focused on Machine Learning, and I'm currently deepening my knowledge of AI and Go.
 
 [LinkedIn](https://www.linkedin.com/in/thelunardi/) / [X](https://x.com/thelunardi) / [freeCodeCamp](https://www.freecodecamp.org/thelunardi) / [CodePen](https://codepen.io/thelunardi)
 
 ## 👨‍💻 Experience
 
-### Backend Developer @ [americanas](https://www.americanas.com/) _(Oct 2019 – Present)_
+### Staff Engineer @ [americanas](https://www.americanas.com/) _(Oct 2019 – Present)_
 
 - **_Technologies used:_** Java, Go, Angular, AWS, MongoDB, MySQL, Electron, Docker.
 
