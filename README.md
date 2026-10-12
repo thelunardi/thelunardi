@@ -11,10 +11,14 @@ I'm known for my commitment to finding good solutions to hard problems and for a
 
 ### Staff Engineer @ [americanas](https://www.americanas.com/) _(Oct 2019 – Present)_
 
-- **_Technologies used:_** Java, Go, Angular, AWS, MongoDB, MySQL, Electron, Docker.
+- Contributed to the implementation of PIX (Brazil's instant payment system) in the point-of-sale system.
+- Working on the migration of Java projects to Go.
+- Help define code review standards across projects.
+- **_Technologies used:_** Java, Go, Angular, AWS, Azure, MongoDB, MySQL, Electron, Docker.
 
 ### Developer @ [UNIFAGOC](https://unifagoc.edu.br/) _(Sep 2016 – Sep 2019)_
 
+- Built from scratch, in Vue.js, the student and professor sections of the academic portal, serving a college with about 2,000 students.
 - **_Technologies used:_** PHP, Vue.js, Docker, MySQL.
 
 ### Developer @ CEAD – IF Sudeste MG _(May 2012 – Dec 2013)_
