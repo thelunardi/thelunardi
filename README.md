@@ -37,9 +37,10 @@ I'm known for my commitment to finding good solutions to hard problems and for a
 
 ## 💬 Languages
 
-**Portuguese**: native  
-**English**: improving  
-**Italian**: improving
+**Portuguese**: Native  
+**English**: Intermediate (B1)  
+**Spanish**: Intermediate (B1)  
+**Italian**: Beginner (A1)
 
 ## 👨‍🎓 Education
 
